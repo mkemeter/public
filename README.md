@@ -1,5 +1,5 @@
 # SAP HANA Spatial Resources
-This page gathers a couple of resources around SAP HANA Spatial. For the high-level overview visit the landing page for [Spatial Solutions from SAP](https://www.sap.com/cmp/oth/crm-ya19-pdm-ddmpmwbss/index.html).
+This page gathers a couple of resources around SAP HANA Spatial. For the high-level overview visit the landing page for [Spatial Solutions from SAP](https://www.sap.com/cmp/oth/crm-ya19-pdm-ddmpmwbss/index.html). The easiest way to get started with Spatial Processing in SAP HANA is to get a [free trial instance of SAP HANA Cloud](https://saphanajourney.com/free-trial/).
 
 ## Spatial Processing Basics
 * Documentation: [SAP HANA Spatial Reference](https://help.sap.com/viewer/bc9e455fe75541b8a248b4c09b086cf5/cloud/en-US/e1c934157bd14021a3b43b5822b2cbe9.html)
