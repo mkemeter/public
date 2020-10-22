@@ -1,4 +1,5 @@
 # SAP HANA Spatial Resources
+This page gathers a couple of resources around SAP HANA Spatial.
 
 ## Spatial Processing Basics
 * Documentation: [SAP HANA Spatial Reference](https://help.sap.com/viewer/bc9e455fe75541b8a248b4c09b086cf5/cloud/en-US/e1c934157bd14021a3b43b5822b2cbe9.html)
